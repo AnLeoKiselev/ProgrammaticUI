@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SecondScreen.swift
 //  ProgrammaticUI
 //
 //  Created by Anatoliy on 28.10.2022.
@@ -7,13 +7,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SecondScreen: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .systemMint
+      
     }
+    
 
+   
 
 }
-
